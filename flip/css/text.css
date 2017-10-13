@@ -1,0 +1,42 @@
+
+.a{ 
+width:1250px;
+height:1000px;
+border:2px solid black;
+background-color:#005580;
+}
+
+.abhi{
+	width:550px;
+height:80px;
+border:2px solid black;
+background-color: #005580;
+
+}
+
+.cd{
+	width:1250px;
+height:1000px;
+border:2px solid black;
+background-color: white;
+}
+
+.l1{
+	
+
+ width:140px;
+ height:140px;
+ border:1px solid black;
+ padding:5px;
+ float:left;
+ 
+ }
+ 
+ .l2{
+ 
+ width :100px;
+ text-align :center;
+ margin :15px;
+ border-radius :10px;
+ float :left;
+ }
